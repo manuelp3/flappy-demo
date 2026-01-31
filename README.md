@@ -1,7 +1,7 @@
 # Flappy bird
 Simple version of Flappy bird made using HTML, CSS, and Javascript. Also incorporates NEAT AI algorithm which continuously improves over time and beats the game!
 
-Link here: https://manuelp-12.github.io/flappy-demo/
+Link here: https://manuelp3.github.io/flappy-demo/
 
 <span>
   <p>
